@@ -51,7 +51,7 @@ export default function Home() {
 <div id="carouselExample" className="carousel slide">
   <div className="carousel-inner">
     <div className="carousel-item active">
-      <img src="https://i.pinimg.com/736x/c9/0e/4c/c90e4cd8c4884545b1332f855b026e25.jpg" className="d-block w-100" width="100%" height="500px" />
+      <img src="https://i.pinimg.com/736x/c9/0e/4c/c90e4cd8c4884545b1332f855b026e25.jpg" className="d-block w-100" width="70%" height="500px" />
     </div>
     <div className="carousel-item">
       <img src="https://getbootstrap.com/docs/5.3/assets/img/bootstrap-icons.png" className="d-block w-100" width="100%" height="500px" />
@@ -75,8 +75,8 @@ export default function Home() {
 <div className="card" style={{width: '18rem'}}>
   <img src="https://dexwatdev.com/Nowtodev/assets/images/work02.jpg" className="card-img-top" width="100px"/>
   <div className="card-body">
-    <h5 className="card-title">Card title</h5>
-    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 className="card-title" id="texteiei" >รางวัลเหรียญทอง</h5>
+    <p className="card-text" id="texteiei">แข่งขันทักษะวิชาชีพ ปีพ.ศ.2565 รางวัลเหรียญทอง ทักษะการสร้างเว็บไซต์ ระดับชั้น ปวช. การแข่งขันทักษะวิชาชีพ การประกวดนวัตกรรมและสิ่งประดิษฐ์ สถานศึกษาอาชีวศึกษาเอกชน ระดับชาติ ประจำปีการศึกษา 2565</p>
   </div>
 </div>
 </div>
@@ -84,8 +84,10 @@ export default function Home() {
 <div className="card" style={{width: '18rem'}}>
   <img src="https://dexwatdev.com/Nowtodev/assets/images/work03.jpg" className="card-img-top" width="100px" />
   <div className="card-body">
-    <h5 className="card-title">Card title</h5>
-    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 className="card-title">รางวัลเหรียญทอง</h5>
+    <p className="card-text">
+แข่งขันทักษะวิชาชีพ ปีพ.ศ.2565
+รางวัลเหรียญทอง ทักษะการสร้างเว็บไซต์ ระดับชั้น ปวช. การแข่งขันทักษะวิชาชีพ การประกวดนวัตกรรมและสิ่งประดิษฐ์ สถานศึกษาอาชีวศึกษาเอกชน ระดับชาติ ประจำปีการศึกษา 2565</p>
   </div>
 </div>
 </div>
@@ -93,8 +95,10 @@ export default function Home() {
 <div className="card" style={{width: '18rem'}}>
   <img src="https://dexwatdev.com/Nowtodev/assets/images/work06.jpg" className="card-img-top" width="100px" />
   <div className="card-body">
-    <h5 className="card-title">Card title</h5>
-    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 className="card-title">รางวัลเหรียญทอง</h5>
+    <p className="card-text" id="texteiei">
+แข่งขันทักษะวิชาชีพ ปีพ.ศ.2566
+รางวัลเหรียญทอง ทักษะการเขียนโปรแกรมคอมพิวเตอร์ ระดับชั้น ปวช. การแข่งขันทักษะวิชาชีพ การประกวดนวัตกรรมและสิ่งประดิษฐ์ ระดับสถานศึกษา ประจำปีการศึกษา 2566</p>
   </div>
 </div>
 </div>
