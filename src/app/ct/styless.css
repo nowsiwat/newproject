@@ -18,6 +18,9 @@ input[type="message"]{
     padding: 30px;
     box-sizing: border-box;
 }
+#textboxeiei{
+  width: 40%;
+}
 /*footter*/
 .site-footer
 {
