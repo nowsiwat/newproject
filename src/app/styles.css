@@ -156,6 +156,9 @@ body{
 {
   background-color:#ea4c89
 }
+#texteiei {
+  font-family: "Kanit", sans-serif;
+}
 @media (max-width:767px)
 {
   .social-icons li.title
